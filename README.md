@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Brad; a software engineer currently in Sydney, AU. 
+### Hi there 👋 
+I'm Brad; a software engineer currently in Sydney, AU. 
 
 <!--
 **bradleykenny/bradleykenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
