@@ -2,6 +2,10 @@
 
 Software engineer currently in Sydney, Australia
 
+Love building easy to use applications for the web. Interest in building end-to-end applications and learning about new ways of doing things better. 
+
+Experienced in web, mobile, and backend.
+
 <!--
 **bradleykenny/bradleykenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
